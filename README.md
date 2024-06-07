@@ -1,0 +1,1 @@
+An example notebook demonstrating exploratory data analysis (EDA) and the testing of machine learning algorithms, such as Random Forest, XGBoost, and Neural Network, including hyperparameter tuning using the GridSearchCV method.
